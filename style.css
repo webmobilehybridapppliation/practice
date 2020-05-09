@@ -1,0 +1,117 @@
+.division { width: 1130px; height: 70px; background-color:#3F00FF ; border: 1px solid #3F00FF ; max-width: 150%; min-width: 20%; } 
+       
+         .left{ float: left; margin-left: 50px; }
+         li{ display:inline-block;}
+         .left li a{
+             width: 20px;
+             display: block;
+             color:#fff;
+             padding: 10px;
+             padding-top: 1px;
+         }
+         .left li a:hover{ 
+             background-color: #000;
+             border-radius: 5px;
+           }
+           
+           /* .two,.three { display: block; float:inline- right; text-align: center;  padding-left: 80%; padding-right: 10em;  }  */
+
+           
+           .one{color:#FFFFFF ; text-align: center; float:auto; margin-right: 180px; }
+           .two{ text-align: center; float: right; margin-top: -50px; margin-right: 50px; padding-left: 10px; padding-top: 2px; padding-right: 10px; padding-bottom: 2px;
+           }
+           .unique{text-align: center; float: right; margin-top: -25px; margin-right: 132px; }
+          
+           .home{ background-color: #B284BE; margin-top: -3px;  width: 1130px; height: 70px; border: 1px solid #FFFAF0  ; max-width: 150%; min-width: 20%; }
+           .logo{ width: 200px; height: 50px; float: auto; padding-top: 10px; padding-left: 90px; padding-bottom: 10px;
+            padding-right: 50px;}
+          .pic{ width: 100%; height: 400px; min-width:20%; max-width: 100%;}
+          .three center p{background-color: aqua; width: 75%; height: 30px; }
+          .four{width:20%; height:80px; margin-top: 50px;}
+          .six{line-height: 25px;margin-left: 20%; margin-right: 20%; text-align: center; margin-top: 50px;}
+          .seven{ line-height: 25px; margin-left: 20%; margin-right: 20%; text-align: center; margin-top: 40px; }
+           .eight{ line-height: 25px; margin-left: 20%; margin-right: 20%; text-align: center; margin-top: 40px;}
+           .nine{ line-height: 25px; margin-left: 20%; margin-right: 20%; text-align: center; margin-top: 40px; }
+  .ten{width: 100%; height: 350px; background-color: #007FFF; margin-top: 90px;}
+  .eleventh{ color:	#0018A8; }
+  .twelf{ color: 	#568203; margin-left: -15px;}
+  .eleventh,.twelf{ text-align: center; display: inline;} 
+  .none{ margin-top: 80px;}
+  .thirteen{height: 40px; margin-top: 60px; margin-left: 170px;  }
+  .fourteen{ height: 40px; margin-top: 60px; margin-left: 170px;}
+  .fifteen{ height: 40px; margin-top: 60px; margin-left: 170px;}
+  .sixteen{ height: 40px; margin-top: 60px; margin-left: 170px;}
+  .seventeen{margin-left: 100px; font-weight: bold; font-size: 50px; margin-top: 10px;}
+  .eighteen{ margin-left: 350px; font-weight: bold; font-size: 50px; margin-top: -90px;}
+  .ninteen{margin-left: 540px; font-weight: bold; font-size: 50px; margin-top: -95px;}
+  .twenty{margin-left: 750px; font-weight: bold; font-size: 50px; margin-top: -93px;}
+  .tweentyone{ float: auto; margin-left: 535px; width: 45px; height: 50px; margin-top: 10px; }
+.twentytwo{ margin-left: 155px; margin-top: -20px; color: #fff; font-size: medium;}
+.twentythree{margin-left: 35px; margin-top: -30px; color: #fff; font-size: medium; padding-left: 27px;}
+
+.twentyfour{ margin-left: 35px; margin-top: -35px; color: #00FF00;     font-size: 20px; padding-left: 141px;}
+.twentyfive{ margin-left: 35px; margin-top: -53px; color: #fff;   font-size: medium; padding-left: 350px;}
+.twentysix{ margin-left: 184px; margin-top: -10px; color: #fff;   font-size: medium; padding-left: 141px;}
+.twentyseven{ margin-left: 260px; margin-top: -35px; font-size: 20px; color:  #00FF00;  padding-left: 151px;}
+.twentyeight{ margin-left: 440px; margin-top: -55px; color: #fff;   font-size: medium; padding-left: 141px;}
+.twentynine{ margin-left: 430px; margin-top: -13px; color: #00FF00; font-size: 20px; padding-left: 141px;}
+
+
+.thirty{ margin-left: 600px; margin-top: -55px;  font-size: medium; color: #fff;   padding-left: 181px;}
+.thirtyone{ margin-left: 635px; margin-top: -13px; color: #00FF00; font-size: 20px; padding-left: 141px;}
+.container{ width:300px; height: 200px; margin-bottom: 500px; margin-top: 40px; margin-left: 70px; background-color: aliceblue;}
+.thirtytwo{ padding-top: 50px; text-align: center; color: #0000FF;}
+.container-1{width:300px; height: 200px; margin-bottom: 500px; margin-top: -700px; margin-left: 400px; background-color: aliceblue;
+
+}
+
+.thirtyfive{padding-top: 50px; text-align: center; color: #0000FF;}
+.container-2{width:300px; height: 200px; margin-bottom: 500px; margin-top: -700px; margin-left: 730px; background-color: aliceblue;
+
+}
+.thirtysix{ padding-top: 50px; text-align: center; color: #0000FF;}
+
+
+
+.container-3{ width:300px; height: 200px; margin-bottom: 500px; margin-top: 2115px; margin-left: 75px;  background-color: aliceblue;}
+.thirtyseven{padding-top: 50px; text-align: center; color: #0000FF;}
+.container-4{width:300px; height: 200px; margin-bottom: 500px; margin-top: -700px; margin-left: 405px;  background-color: aliceblue;}
+.thirtyeight{padding-top: 50px; text-align: center; color: #0000FF;}
+.container-5{width:300px; height: 200px; margin-bottom: 500px; margin-top: -700px; margin-left: 735px;  background-color: aliceblue;
+
+}
+.thirtynine{ padding-top: 50px; text-align: center; color: #0000FF;}
+
+}
+ .gallary{ margin-top: 50px;
+
+ }
+    
+ .fourty{ color:	#0018A8; margin-top: -350px;
+
+ }
+  
+  .fourtyone{color: 	#568203; margin-left: 280px; margin-top: -77px;
+
+ }   
+ .fourty.fourtyone{ text-align: center; display: inline;
+
+ }
+.fourtytwo{hiegit: 50px; width: 200px
+
+}
+.fourtythree{height: 300px; width: 200px
+
+}
+.fourtyfour{
+
+}
+.fourtyfive{
+
+}
+
+
+        
+             
+
+           
